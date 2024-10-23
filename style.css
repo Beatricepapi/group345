@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hi{
     background-color: black;
     color: red;
@@ -5,4 +6,9 @@ hi{
 
 p{
     text-decoration: underline;
+=======
+h1{
+    background-color: green
+    color red;;
+>>>>>>> feature1
 }
